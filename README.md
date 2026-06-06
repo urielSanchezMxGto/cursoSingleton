@@ -1,2 +1,2 @@
 # cursoSingleton
-Repositorio de curso java proyecto singleton
+Repositorio de curso de java proyecto singleton
